@@ -1,6 +1,6 @@
 # 🇪🇺 Clubs français en Coupes d'Europe — Flux ICS (hors Rennes)
 
-Flux `.ics` mis à jour automatiquement toutes les 6 heures via GitHub Actions et servi sur GitHub Pages.
+Flux `.ics` mis à jour automatiquement une fois par semaine (lundi à 6h UTC) via GitHub Actions et servi sur GitHub Pages.
 
 ## Abonnement Google Agenda
 
